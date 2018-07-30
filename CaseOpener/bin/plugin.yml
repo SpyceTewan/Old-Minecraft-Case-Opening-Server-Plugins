@@ -1,0 +1,15 @@
+name: CaseOpener
+version: 2.0
+author: Tewan
+main: at.lolf.plugins.caseopener.Main
+commands:
+     cases:
+          description: Oeffnet den Caseshop
+          usage: /cases
+          aliases: [kisten]
+     tools:
+          description: Oeffnet den Toolshop
+          usage: /tools
+     cmd:
+          description: Hilft dir!
+          usage: /cmd

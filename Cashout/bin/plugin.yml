@@ -1,0 +1,9 @@
+name: Market
+author: Tewan
+version: 1.0
+main: at.lolf.plugins.cashout.Main
+commands:
+     cashout:
+          description: Gibt dir einen Gutschein mit einem Betrag
+          usage: /cashout <amount>
+          aliases: [co]

@@ -1,0 +1,9 @@
+name: JumpAndRun
+author: Tewan
+version: Lool
+main: at.lolf.plugins.jumpandrun.Main
+commands:
+     jumpandrun:
+          description: Teleport dich zu einem Jump and run!
+          usage: /jar
+          aliases: [jar]

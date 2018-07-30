@@ -1,0 +1,36 @@
+name: Basic
+version: Dev
+author: Tewan
+main: at.lolf.plugins.basic.Main
+commands:
+     spawn:
+          description: Teleportiert dich zum Spawn
+          usage: /spawn
+          aliases: [lobby, hub, h, l]
+     setspawn:
+          description: Setzt den Spawn
+          usage: /setspawn
+     gm:
+          description: Gamemode Command
+          usage: /gm <mode> <name>
+          aliases: [gamemode]
+     rename:
+          description: Renamed das Item in deiner Hand
+          usage: /rename <name>
+          aliases: [rn]
+     feed:
+          descripton: Gibt dir volles Essen
+          usage: /feed
+     heal:
+          description: Gibt dir volles Leben
+          usage: /heal
+     trash:
+          description: Mistkuebel
+          usage: /trash
+          aliases: [t]
+     fly:
+          description: Fly Command
+          usage: /fly
+     plottp:
+          description: Bringt dich zu den Plots
+          usage: /plottp

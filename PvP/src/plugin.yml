@@ -1,0 +1,9 @@
+name: PvP
+author: Tewan
+version: Dev
+main: at.lolf.plugins.pvp.Main
+commands:
+     map:
+          description: Map Command
+          usage: /map <mapname:set> [mapname]
+          

@@ -1,0 +1,13 @@
+name: SellUI
+author: Tewan
+version: 1.0
+main: at.lolf.plugins.sellui.Main
+commands:
+     sell:
+          description: Oeffnet ein Menu zum verkaufen von Items
+          usage: /sell
+          aliases: [s]
+     prices:
+          description: Zeigt dir die Preise aller Items an
+          usage: /prices
+          aliases: [price]

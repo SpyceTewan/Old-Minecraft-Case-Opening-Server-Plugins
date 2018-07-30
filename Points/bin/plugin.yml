@@ -1,0 +1,16 @@
+name: Points
+main: at.lolf.plugins.points.Points
+author: Tewan
+version: 1.0
+commands:
+     savepoints:
+          description: Speichert die Punkteconfig
+          usage: /savepoints
+          aliases: [sp]
+     points:
+          description: Zeigt deine Punkte an
+          usage: /points
+          aliases: [p, money, m, geld, g]
+     eco:
+          description: Admins koennen damit die Punkte anderer Spieler manipulieren
+          usage: /eco see:take:give:set [punkte]
